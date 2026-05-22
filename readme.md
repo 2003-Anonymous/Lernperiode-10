@@ -11,24 +11,24 @@
 
 ## 22.5.
 
-- [ ] Ein Grundgerüst für meine Startseite erstellen. Dieses sollte einen Abholer-Satz und Kontaktinformationen beeinhalten, auf meinen CV verlinken, und einige Projekte in den Vordergrund stellen.
-  - [ ] Ein ansprechendes Layout für die Startseite auf Papier entworfen, zusammen mit einem "Abholer-Satz", der die Aufmerksamkeit des Praktikumsgebers *in spe* auf sich zieht.
-  - [ ] Dieses Layout auf rudimentäre Weise mit HTML und CSS umsetzen
+- [x] Ein Grundgerüst für meine Startseite erstellen. Dieses sollte einen Abholer-Satz und Kontaktinformationen beeinhalten, auf meinen CV verlinken, und einige Projekte in den Vordergrund stellen.
+  - [x] Ein ansprechendes Layout für die Startseite auf Papier entworfen, zusammen mit einem "Abholer-Satz", der die Aufmerksamkeit des Praktikumsgebers *in spe* auf sich zieht.
+  - [x] Dieses Layout auf rudimentäre Weise mit HTML und CSS umsetzen
 
-- [ ] Online-Präsenz: Wenn der Arbeitgeber *in spe* meinen Namen auf einer Suchmaschine eingibt, sollen vor allem seriöse Informationen erscheinen, wenn überhaupt. 
-- [ ] Referenz-Schreiben ausfüllen:
-  - [ ] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
-  - [ ] Evidenz für diese Eigenschaften finden und ausformulieren
-  - [ ] Rechtschreibeprüfung
+- [x] Online-Präsenz: Wenn der Arbeitgeber *in spe* meinen Namen auf einer Suchmaschine eingibt, sollen vor allem seriöse Informationen erscheinen, wenn überhaupt. 
+- [x] Referenz-Schreiben ausfüllen:
+  - [x] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
+  - [x] Evidenz für diese Eigenschaften finden und ausformulieren
+  - [x] Rechtschreibeprüfung
 
-☝️ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute habe ich eine grobe Startseite erstellt. Diese sieht auch schon ganz hübsch aus, aber der Text ist noch provisorisch. Diese Startseite habe ich mithilfe von KI (Grok) erstellt, da es so schneller geht und ich nicht so gut im Layout designen bin und ich weiss, dass ich es auch ohne KI könnte. Ich habe natürlich allen Code überprüft und auch schon ein wenig überarbeitet. Ich habe auch etwas neues gelernt und zwar wenn man alles auf einer Seite hat und trotzdem ein Menu hat, kann man mithilfe von href="#sectionName" bei den verschiedenen Menüpunkten zu den Sections springen.
 
 ## 29.5.
 
-- [ ] Start-Seite 1
-- [ ] Start-Seite 2
-- [ ] Start-Seite 3
-- [ ] Start-Seite 4
+- [ ] Die Hovereffekte vom Menu und den Projekten überarbeiten.
+- [ ] Meine Github-Projekte verlinken.
+- [ ] Sinnvollen Text bei den Abschnitten hinzufügen.
+- [ ] Bei meinen Skills eine Anzeige einbauen, die Anzeigt, wie gut ich die jeweiligen Skills behersche.
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 

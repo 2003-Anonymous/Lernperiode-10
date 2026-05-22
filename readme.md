@@ -5,7 +5,9 @@
 ## Grob-Planung
 
 1. Welche 2 Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten? (Lassen Sie einen Platzhalter)
-2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten?
+   Ich könnte meinen MissileSimulator und mein Towerdefense oder Autobattler game verlinken.
+3. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten?
+   Ich kann bereits HTML, CSS, C#, JavaScript, SQL und ein wenig Python. Ich könnte meine Python skills noch verbessern, da ich bisher nur Python im zusammenhang mit Machine Learning verwendet habe. Zudem könnte ich vieleicht noch Java oder C++ lernen.
 
 ## 22.5.
 

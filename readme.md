@@ -25,10 +25,10 @@ Heute habe ich eine grobe Startseite erstellt. Diese sieht auch schon ganz hübs
 
 ## 29.5.
 
-- [ ] Die Hovereffekte vom Menu und den Projekten überarbeiten.
 - [ ] Meine Github-Projekte verlinken.
 - [ ] Sinnvollen Text bei den Abschnitten hinzufügen.
 - [ ] Bei meinen Skills eine Anzeige einbauen, die Anzeigt, wie gut ich die jeweiligen Skills behersche.
+- [ ] Bei der Section Lebenslauf meine Bildung und evtl. noch andere Dinge hinzufügen.
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 

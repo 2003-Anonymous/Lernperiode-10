@@ -26,11 +26,11 @@ Heute habe ich eine grobe Startseite erstellt. Diese sieht auch schon ganz hübs
 ## 29.5.
 
 - [x] Meine Github-Projekte verlinken.
-- [ ] Sinnvollen Text bei den Abschnitten hinzufügen.
-- [ ] Bei meinen Skills eine Anzeige einbauen, die Anzeigt, wie gut ich die jeweiligen Skills behersche.
-- [ ] Bei der Section Lebenslauf meine Bildung und evtl. noch andere Dinge hinzufügen.
+- [x] Sinnvollen Text bei den Abschnitten hinzufügen.
+- [x] Bei meinen Skills eine Anzeige einbauen, die Anzeigt, wie gut ich die jeweiligen Skills behersche.
+- [x] Bei der Section Lebenslauf meine Bildung und evtl. noch andere Dinge hinzufügen.
 
-☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute habe ich meine Github-Projekte verlinkt und auch sinnvolleren Text bei meiner Beschreibung eingefügt. Ich bin aber noch nicht so ganz zufrieden, da er teilweise nicht ganz passt und noch besser formuliert werden kann. Zudem habe ich noch Anzeigeleisten für meine Sprachkenntnisse eingefügt. Diese Leisten habe ich aber nicht noch bei den anderen Skills hinzugefügt, weil dort immer mehrere gruppiert sind und es deshalb nicht so passt. Im Moment befinden sie sich beim Lebenslauf. Dort muss ich noch mehr hinzufügen, weil wenn dort nur steht, welche Programmiersprachen ich kann, macht der Titel nicht so Sinn.
 
 ## 5.6.
 

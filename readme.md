@@ -25,7 +25,7 @@ Heute habe ich eine grobe Startseite erstellt. Diese sieht auch schon ganz hübs
 
 ## 29.5.
 
-- [ ] Meine Github-Projekte verlinken.
+- [x] Meine Github-Projekte verlinken.
 - [ ] Sinnvollen Text bei den Abschnitten hinzufügen.
 - [ ] Bei meinen Skills eine Anzeige einbauen, die Anzeigt, wie gut ich die jeweiligen Skills behersche.
 - [ ] Bei der Section Lebenslauf meine Bildung und evtl. noch andere Dinge hinzufügen.

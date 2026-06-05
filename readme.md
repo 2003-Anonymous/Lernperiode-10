@@ -34,9 +34,11 @@ Heute habe ich meine Github-Projekte verlinkt und auch sinnvolleren Text bei mei
 
 ## 5.6.
 
-- [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
-- [ ] Start-Seite abschliessen
-- [ ] Rückmeldung geben
+- [x] LinkedIn-Profil erstellen / ausputzen
+- [x] GitHub-Profil professionalisieren (`readme.md`)
+- [x] Start-Seite abschliessen
+- [x] Rückmeldung geben
 
-☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute habe ich ein LinkedIn-Profil erstellt. Meiner Meinung nach ist LinkedIn sehr unübersichtlich und ich hatte zuerst mühe, zu verstehen, wo ich jetzt was hinzufügen kann. Dann habe ich auf GitHub noch mein Readme über mich aktualisiert und ich habe noch ein paar kleine Anpassungen auf meiner Startseite vorgenommen.
+
+Aus dem Feedback habe ich gelernt, dass ich das Bewerbungsschreiben noch mehr auf die Stellenanzeige anpassen und auch mehr auf die Punkte aus dem Inserat eingehen muss.
